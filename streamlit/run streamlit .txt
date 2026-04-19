@@ -1,0 +1,2 @@
+streamlit run "C:\Users\dt\OneDrive\Desktop\fruit-classifier\streamlit\main.py"
+
