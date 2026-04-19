@@ -31,3 +31,5 @@ Link of Dataset on Kaggle :
  - https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification?select=dataset
   
 
+Download model file in the folder of project :
+ - https://drive.google.com/file/d/1Q6GpHKynkpJZtWLppbZa1zknoSkgRQS7/view?usp=drive_link
