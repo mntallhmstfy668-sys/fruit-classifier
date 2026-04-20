@@ -1,8 +1,4 @@
-os
-streamlit as st 
-numpy as np
-tensorflow as tf    
-tensorflow import keras     
-tensorflow.keras.models import load_model 
-PIL import Image
-pickle 
+streamlit
+numpy
+tensorflow
+pillow
